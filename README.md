@@ -23,19 +23,28 @@ ___
 
 ### OFF-LINE
 * KGITBANK 웹개발 과정 수료 (2017-11 ~ 2018.04)
-
-### ON-LINE
-* 노마드 코더 [React 영화 웹 서비스, React Native 날씨 앱 만들기, React Hooks, Redux 강의]
-* 노마드 코더 [ReactJs & firebase 트위터 클론 코딩]
 ___
 
 ## 기술
 
+* JavaScript
+   - ES6
+   - Axios
+   - Npm & Yarn
+   - Webpack
+   -
+   
 * Vue
    - Vuex
    - Cli 3
    - Router
 
+* React
+   - React Native
+      - expo
+   - React hooks
+   - Redux
+   - 
 
 
 
