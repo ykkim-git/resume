@@ -5,6 +5,8 @@
 * 이름: 김영권 (KIM YOUNG KWON)
 * 생년월일: 1991-06-05
 * 병역 : 육군 병장 만기전역
+* 취미 : 캠핑
+* 특기 : 고기굽기
 
 > "불필요한 리소스 낭비를 방지하기 위한 자동화와 최적화를 지향하자."
 
@@ -84,4 +86,15 @@ ___
 * 그 외 [github repo](https://github.com/ykkim-git)
 
 ___
+
+## 스터디
+
+* news letter
+   - React Status
+   - Frontend Focus
+   - Javascript Weekly
+   - Mozilla
+   - 개발자스럽다
+
+
 
