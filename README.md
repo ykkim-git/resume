@@ -32,9 +32,9 @@ ___
 ## 기술
 
 * Vue
-- Vuex
+ - Vuex
  - Cli 3
--- Router
+    - Router
 
 
 
