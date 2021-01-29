@@ -21,8 +21,7 @@ ___
 
 ## 교육
 
-### OFF-LINE
-* KGITBANK 웹개발 과정 수료 (2017-11 ~ 2018.04)
+* KGITBANK 웹개발 과정 수료 (2017-11 ~ 2018.03)
 ___
 
 ## 기술
@@ -30,9 +29,6 @@ ___
 * JavaScript
    - ES6
    - Axios
-   - Npm & Yarn
-   - Webpack
-   -
    
 * Vue
    - Vuex
@@ -44,7 +40,25 @@ ___
       - expo
    - React hooks
    - Redux
-   - 
+   - Router
+
+* Firebase
+   - Google Firebase Authentication
+
+* DevOps
+   - Github, Git, gh-pages
+   - Yarn
+   - Npm
+   - Webpack
+   - Subversion(SVN)
+   
+* etc
+   - RESTful API
+   - Postman
+
+https://stackshare.io/rladudrnjs12/ykkstackshare
+___
+
 
 
 
