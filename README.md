@@ -60,9 +60,11 @@ ___
    - Subversion(SVN)
    
 * etc
-   - RESTful API
    - Postman
-
+   - Notion
+   - Slack
+   - RESTful API
+      
 [stackshare.io](https://stackshare.io/rladudrnjs12/ykkstackshare)
 ___
 
