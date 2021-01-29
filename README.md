@@ -33,8 +33,8 @@ ___
 
 * Vue
 - Vuex
-- Cli 3
-- Router
+ - Cli 3
+-- Router
 
 
 
