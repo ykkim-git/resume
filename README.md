@@ -30,6 +30,10 @@ ___
    - ES6
    - Axios
    
+* HTML
+
+* CSS
+
 * Vue
    - Vuex
    - Cli 3
@@ -56,9 +60,28 @@ ___
    - RESTful API
    - Postman
 
-https://stackshare.io/rladudrnjs12/ykkstackshare
+[stackshare.io](https://stackshare.io/rladudrnjs12/ykkstackshare)
 ___
 
+## 프로젝트
+* [홈빠]: 홈쇼핑 상품 모음 앱 (Vue.js)
+   - 최근 본 상품 페이지 (front-end 100%)
+   - 찜한 상품 페이지 (front-end 100%)
+   - 내 TV포인트 페이지 (front-end 100%)
+   - 각종 팝업 (front-end 100%)
+   - 고객 센터 및 공지사항 (front-end 100%) 
 
+* OTT 서비스 내 TV포인트 전환 및 결제 서비스
+   - 대상 제휴사: 카카오페이지, 네이버 웹툰, KT 시즌, U+ 모바일tv, , (구)옥수수 등
+   - 모바일 웹 및 앱(웹뷰 방식) 프론트엔드 개발 및 관리: jsp, jquery, vue.js
+___
 
+## 개인 프로젝트
+
+* 트위터 클론 (ReactJs, React hooks API, Firebase)
+   - [clone twitter page](https://github.com/ykkim-git/nwitter)
+
+* 그 외 [github repo](https://github.com/ykkim-git)
+
+___
 
