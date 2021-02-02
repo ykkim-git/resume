@@ -65,7 +65,7 @@ ___
    - Slack
    - RESTful API
       
-[stackshare.io](https://stackshare.io/rladudrnjs12/ykkstackshare)
+[자세한 사항들은 stackshare.io](https://stackshare.io/rladudrnjs12/ykkstackshare)
 ___
 
 ## 프로젝트
