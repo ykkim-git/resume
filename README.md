@@ -98,6 +98,5 @@ ___
    - Javascript Weekly
    - Mozilla
    - 개발자스럽다
-
-
-
+   
+* 그 외 노마드코더, 드림코딩, 인프런 등
