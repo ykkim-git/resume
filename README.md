@@ -14,7 +14,7 @@
 ___
 
 ## 경력
-* 티비허브 모바일 개발팀 (2018-05 ~ 2020-11)
+* 티비허브 모바일 개발팀 (2018-06 ~ 2020-11)
 ___
 
 ## 학력
@@ -63,13 +63,13 @@ ___
    - Postman
    - Notion
    - Slack
-   - RESTful API
+   - Restful API
       
 [자세한 사항들은 stackshare.io](https://stackshare.io/rladudrnjs12/ykkstackshare)
 ___
 
 ## 프로젝트
-* [홈빠]: 홈쇼핑 상품 모음 앱 (Vue.js)
+* [홈빠]: 홈쇼핑 상품 모음 앱 (Vue.js, Vuex)
    - 최근 본 상품 페이지 (front-end 100%)
    - 찜한 상품 페이지 (front-end 100%)
    - 내 TV포인트 페이지 (front-end 100%)
