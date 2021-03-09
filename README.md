@@ -7,7 +7,7 @@
 * 생년월일: 1991-06-05
 * 병역 : 육군 병장 만기전역 (운전병)
 * 취미 : 캠핑
-* 특기 : 고기굽기
+* 특기 : 고기 굽기
 
 > "불필요한 리소스 낭비를 방지하기 위한 자동화와 최적화를 지향하자."
 
@@ -15,7 +15,7 @@ ___
 
 ## 경력
 * 티비허브 모바일 개발팀 (2018-06 ~ 2020-11)
-* 케어마인드 프론트엔드 개발 (2021-02 ~ )
+* 케어마인드(에포터) 프론트엔드 개발자 (2021-02 ~ )
 ___
 
 ## 학력
@@ -39,9 +39,11 @@ ___
 * CSS
 
 * Vue
+   - Nuxt.js
    - Vuex
    - Cli 3
    - Router
+
 
 * React
    - React Native
@@ -54,12 +56,15 @@ ___
    - Google Firebase Authentication
 
 * DevOps
+   - Amazon Web Service
+   - JIRA
+   - Sourcetree
    - Github, Git, gh-pages
    - Yarn
    - Npm
    - Webpack
    - Subversion(SVN)
-   
+
 * etc
    - Postman
    - Notion
